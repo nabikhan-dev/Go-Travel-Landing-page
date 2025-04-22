@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+.heading-Fonts {
+    font-family: "Volkhov", serif;
+  
+  }
+  .body-Fonts{
+    font-family: "Poppins", sans-serif;
+  }
+
+
+
+  .body-Fonts-Color {
+    color: #5E6282;
+  }
+
+
+.heading-Fonts-Color{
+  color: #1E1D4C;
+}  
+.primary-Color{
+  
+    color: #DF6951;
+}
+.button-Color{
+    background-color: #F1A501;
+}
+.secondary-Color {
+  background-color: #DF6951;
+}
+
+
+
